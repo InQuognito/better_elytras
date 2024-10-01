@@ -1,4 +1,5 @@
 clear @s minecraft:elytra
+
 give @s minecraft:leather_chestplate\
 	[\
 		minecraft:item_name = '{\
