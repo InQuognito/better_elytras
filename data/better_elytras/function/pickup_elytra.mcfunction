@@ -15,6 +15,7 @@ give @s minecraft:leather_chestplate\
 			"show_in_tooltip": false\
 		},\
 		minecraft:glider = {},\
+		minecraft:max_damage = 432,\
 		minecraft:attribute_modifiers = {\
 			modifiers: []\
 		},\
