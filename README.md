@@ -54,7 +54,7 @@ Secret Trims are a little something special I'm going to add over time; they hav
 <img src="https://github.com/user-attachments/assets/ac190176-f516-4d5d-ab16-adfc6866fae0" alt="Angel" width="400"/>
 
 ## Credits
-InQuognito - Developer
+InQuognito - Developer<br>
 MiffenKop - Artist
 
 ## Known Issues
