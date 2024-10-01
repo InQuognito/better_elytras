@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"inventory_changed": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:elytra"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "better_elytras:pickup_elytra"
+	}
+}

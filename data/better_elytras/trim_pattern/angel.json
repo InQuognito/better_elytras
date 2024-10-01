@@ -1,0 +1,7 @@
+{
+	"asset_id": "better_elytras:angel",
+	"description": {
+		"translate": "better_elytras.trim_pattern.angel"
+	},
+	"template_item": "minecraft:feather"
+}

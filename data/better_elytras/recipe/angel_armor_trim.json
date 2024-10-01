@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:smithing_trim",
+	"template": "minecraft:feather",
+	"base": "minecraft:leather_chestplate",
+	"addition": "minecraft:quartz"
+}
