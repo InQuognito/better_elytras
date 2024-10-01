@@ -41,6 +41,11 @@ Elytras can now be trimmed with any of the vanilla armor trims! Our designs were
 <img src="https://github.com/user-attachments/assets/3f3fbe01-8df7-45e6-8124-bf6beb3df08d" alt="Wayfinder" width="200"/>
 <img src="https://github.com/user-attachments/assets/68a2e667-3ee3-4880-9238-aff7eac2dff0" alt="Wild" width="200"/>
 
+## Secret Trims
+Secret Trims are a little something special I'm going to add over time; they have special ways to be found and replace the entire elytra texture. I'll let you discover how to find them!
+
+<img src="https://github.com/user-attachments/assets/ac190176-f516-4d5d-ab16-adfc6866fae0" alt="Angel" width="400"/>
+
 ## Known Issues
 - Washing an Elytra will apply the leather armor color [#1](https://github.com/InQuognito/better_elytras/issues/1)
 - Elytras are enchantable with chestplate enchantments. This is not a feature, rather a limitation I do not know how to bypass (yet) [#2](https://github.com/InQuognito/better_elytras/issues/2)
