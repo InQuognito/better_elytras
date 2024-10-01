@@ -1,7 +1,14 @@
 # Better Elytras
 Have you ever wanted better customization for your Elytras in Minecraft? Introducing an all-new way to express yourself in Vanilla Minecraft, Better Elytras adds several new features to vanilla elytras!
 
-## Dyeable Elytras
+## Installation
+All you need to do to install this pack is properly add the datapack to your world and load it, and equip the resource pack!
+
+### NOTE: This pack is NOT meant to be used with existing worlds. Picking up an elytra will overwrite its data, such as enchantments.
+
+## Features
+
+### Dyeable Elytras
 Elytras can now be dyed using the same system as leather armor! Simply combine them in a crafting table with dye.
 
 <img src="https://github.com/user-attachments/assets/f4858d5e-d777-4be3-80a2-d938800fc928" alt="Red" width="200"/>
@@ -19,7 +26,7 @@ Elytras can now be dyed using the same system as leather armor! Simply combine t
 <img src="https://github.com/user-attachments/assets/37b120b4-3b45-4946-ba65-15eb0eade4f2" alt="Black" width="200"/>
 <img src="https://github.com/user-attachments/assets/fd47b64d-0e9d-443b-88b1-583327563170" alt="Brown" width="200"/>
 
-## Trimmable Elytras
+### Trimmable Elytras
 Elytras can now be trimmed with any of the vanilla armor trims! Our designs were inspired by the vanilla trims, but we added our own flair to them! Credit to @MiffenKop for the awesome trim textures.
 
 <img src="https://github.com/user-attachments/assets/e85d82b4-eb6a-49be-8625-d1c47a31a469" alt="Bolt" width="200"/>
@@ -41,10 +48,14 @@ Elytras can now be trimmed with any of the vanilla armor trims! Our designs were
 <img src="https://github.com/user-attachments/assets/3f3fbe01-8df7-45e6-8124-bf6beb3df08d" alt="Wayfinder" width="200"/>
 <img src="https://github.com/user-attachments/assets/68a2e667-3ee3-4880-9238-aff7eac2dff0" alt="Wild" width="200"/>
 
-## Secret Trims
+### Secret Trims
 Secret Trims are a little something special I'm going to add over time; they have special ways to be found and replace the entire elytra texture. I'll let you discover how to find them!
 
 <img src="https://github.com/user-attachments/assets/ac190176-f516-4d5d-ab16-adfc6866fae0" alt="Angel" width="400"/>
+
+## Credits
+InQuognito - Developer
+MiffenKop - Artist
 
 ## Known Issues
 - Washing an Elytra will apply the leather armor color [#1](https://github.com/InQuognito/better_elytras/issues/1)
