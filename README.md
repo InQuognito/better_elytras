@@ -10,5 +10,5 @@ Elytras can now be trimmed with any of the vanilla armor trims! Our designs were
 <br>`TODO: Screenshots here`
 
 ## Known Issues
-- Washing an Elytra will apply the leather armor color
-- Elytras are enchantable with chestplate enchantments. This is not a feature, rather a limitation I do not know how to bypass (yet)
+- Washing an Elytra will apply the leather armor color [#1](https://github.com/InQuognito/better_elytras/issues/1)
+- Elytras are enchantable with chestplate enchantments. This is not a feature, rather a limitation I do not know how to bypass (yet) [#2](https://github.com/InQuognito/better_elytras/issues/2)
