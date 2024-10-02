@@ -4,7 +4,7 @@ Have you ever wanted better customization for your Elytras in Minecraft? Introdu
 ## Installation
 All you need to do to install this pack is properly add the datapack to your world and load it, and equip the resource pack!
 
-### NOTE: This pack is NOT meant to be used with existing worlds. Picking up an elytra will overwrite its data, such as enchantments.
+### NOTE: This pack is NOT meant to be used with existing elytras. Picking up an elytra will overwrite its data, such as enchantments.
 
 ## Features
 
