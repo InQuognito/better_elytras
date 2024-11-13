@@ -8,4 +8,4 @@ item modify entity @s weapon.mainhand { \
 	} \
 }
 
-scoreboard players reset @s be.wash_elytra
+scoreboard players reset @s better_elytras.wash_elytra

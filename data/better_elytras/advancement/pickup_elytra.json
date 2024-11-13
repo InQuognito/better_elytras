@@ -12,6 +12,6 @@
 		}
 	},
 	"rewards": {
-		"function": "better_elytras:pickup_elytra"
+		"function": "better_elytras:elytra/pickup"
 	}
 }

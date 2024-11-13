@@ -1,11 +1,8 @@
+#function better_elytras:elytra/data/get
 clear @s minecraft:elytra
 
 give @s minecraft:leather_chestplate\
 	[ \
-		minecraft:item_name = '{ \
-			"translate": "item.minecraft.elytra", \
-			"color": "light_purple" \
-		}', \
 		minecraft:item_model = "minecraft:elytra", \
 		minecraft:equippable = { \
 			slot:"chest", \
@@ -19,6 +16,9 @@ give @s minecraft:leather_chestplate\
 		minecraft:max_damage = 432, \
 		minecraft:attribute_modifiers = { \
 			modifiers: [] \
+		}, \
+		minecraft:custom_data = { \
+			better_elytra: 1b \
 		}, \
 	]
 
