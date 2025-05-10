@@ -2,6 +2,6 @@
 	"type": "minecraft:smithing_trim",
 	"base": "minecraft:elytra",
 	"addition": "#minecraft:trim_materials",
-	"template": "minecraft:feather",
-	"pattern": "better_elytras:angel"
+	"template": "minecraft:phantom_membrane",
+	"pattern": "better_elytras:phantom"
 }

@@ -1,3 +1,0 @@
-scoreboard objectives remove better_elytras.wash_elytra
-
-scoreboard objectives add better_elytras.wash_elytra minecraft.custom:minecraft.clean_armor
